@@ -1,3 +1,4 @@
+
 // src/pages/MapPage.tsx
 import { useState, useEffect } from "react";
 import { Map as MapIcon, Layers, Clock, Info, AlertTriangle } from "lucide-react";
