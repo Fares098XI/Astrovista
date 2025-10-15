@@ -1,3 +1,4 @@
+
 // src/components/MapMega.tsx
 import { useEffect, useRef, useState } from "react";
 import mapboxgl from "mapbox-gl";
