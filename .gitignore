@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+CHATBASE_TOKEN=08176bdd-0703-4e38-b29e-cacb4e8c4400
+# optionally set PORT for some hosts (Render sets PORT automatically)
+# PORT=5000
+.env.local
+server/.env
